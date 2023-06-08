@@ -12,7 +12,7 @@ Dify 云服务 | 心理学知识库 | 聊天机器人
 
 - 文件类型`TXT, HTML, Markdown, PDF`
 
-- 未来会支持`同步自 Notion 内容`，`同步自 Web 站点`
+- Todo: 未来会支持`同步自 Notion 内容`，`同步自 Web 站点`
 
 ### 文本分段与清洗 
 
@@ -36,6 +36,8 @@ Dify 云服务 | 心理学知识库 | 聊天机器人
 
 设置prompt
 
+todo
+
 # 模型
 
 支持 OpenAI, Azure OpenAI API KEY
@@ -53,6 +55,10 @@ Dify 云服务 | 心理学知识库 | 聊天机器人
 1. Web 端对话机器人：Psychology Q&A，链接在飞书云文档 `Engineering Wiki-算法-Dify chatbot`
 
 2. API : 支持调用对话型应用 API  
+
+## 书目
+
+todo
  
 ## 参考文档
 
