@@ -94,21 +94,27 @@ Using ONLY Chinese in the conversation. Please make sure your citation is correc
 在现行的 prompt 中设置了要尽可能详细的根据书籍内容产生回答，并且对比 ChatGPT 针对 `dify_record3` 中的3个问题的回答。使用示例：
 
 dify_record1
+
 ![dify_record1](image/dify_record1.jpg)
 
 dify_record2
+
 ![dify_record2](image/dify_record2.jpg)
 
 dify_record3
+
 ![dify_record3](image/dify_record3.JPG)
 
 chatgpt_record1
+
 ![chatgpt_record1](image/chatgpt_record1.JPG)
 
 chatgpt_record2
+
 ![chatgpt_record2](image/chatgpt_record2.JPG)
 
 chatgpt_record3
+
 ![chatgpt_record3](image/chatgpt_record3.JPG)
 
 ## 书目
