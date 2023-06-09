@@ -153,7 +153,7 @@ chatgpt_record3
 
 ## 融合需要做的工程开发
 
-Dify 对对话型应用 API 提供了下列功能：
+Dify 对对话型应用 API 提供了下列功能, 下列功能在官方文档上均有代码实例：
 - 发送对话消息（代码示例）
 ```
 curl --location --request POST 'https://api.dify.dev/v1/chat-messages' \
