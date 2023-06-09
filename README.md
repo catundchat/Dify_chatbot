@@ -90,8 +90,10 @@ Using ONLY Chinese in the conversation. Please make sure your citation is correc
 2. API : 支持调用对话型应用 API  
 
 使用示例：
-![dify_record1](image/dify_record1.JPG)
-![dify_record2](image/dify_record2.JPG)
+
+![dify_record1](image/dify_record1.jpg)
+
+![dify_record2](image/dify_record2.jpg)
 
 ## 书目
 
