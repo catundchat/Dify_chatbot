@@ -143,11 +143,37 @@ chatgpt_record3
 
 ## 业务融合
 
-todo
+目前AI爱家调用的是 OpenAI 的 gpt-3.5-turbo API, 若要使用 Dify 的知识库服务，只需调用你所创建应用的 API 即可，[官方文档](https://docs.dify.ai/v/zh-hans/application/developing-with-apis)写的很详细
+
+使用 Dify API 的好处:
+- 让前端应用直接安全地调用 LLM 能力，省去后端服务的开发过程
+- 在可视化的界面中设计应用，并在所有客户端中实时生效
+- 随时切换 LLM 供应商，并对 LLM 的密钥进行集中管理
+- 在可视化的界面中运营你的应用，例如分析日志、标注及观察用户活跃
 
 ## 融合需要做的工程开发
 
-todo
+Dify 对对话型应用 API 提供了下列功能：
+- 发送对话消息（代码示例）
+```
+curl --location --request POST 'https://api.dify.dev/v1/chat-messages' \
+--header 'Authorization: Bearer ENTER-YOUR-SECRET-KEY' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "inputs": {},
+    "query": "eh",
+    "response_mode": "streaming",
+    "conversation_id": "1c7e55fb-1ba2-4e10-81b5-30addcea2276"
+    "user": "abc-123"
+}'
+```
+- 消息反馈：点赞点踩
+- 获取会话历史消息
+- 获取会话列表
+- 会话重命名
+- 获取应用配置信息
+
+因为 Dify 对上述功能提供了良好的封装，所以不需要很多工程开发过程。具体开发需要和前端同学对接
 
 ## 书目
 
@@ -177,3 +203,4 @@ Clinical Handbook of Emotion-Focused Therapy-American Psychological Association
 1. [dify.ai](https://dify.ai) 
 2. [GitHub: langgenius/dify](https://github.com/langgenius/dify)
 3. [Dify Documentation](https://docs.dify.ai/getting-started/intro-to-dify)
+4. [基于APIs开发](https://docs.dify.ai/v/zh-hans/application/developing-with-apis)
