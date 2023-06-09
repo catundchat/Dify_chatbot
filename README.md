@@ -89,7 +89,7 @@ Using ONLY Chinese in the conversation. Please make sure your citation is correc
 
 2. API : 支持调用对话型应用 API  
 
-使用示例：
+在 prompt 中注明使用示例：
 
 ![dify_record1](image/dify_record1.jpg)
 
@@ -97,7 +97,7 @@ Using ONLY Chinese in the conversation. Please make sure your citation is correc
 
 ## 书目
 
-`books`目录下存放了一些已上传至知识库的书籍或论文
+`books`目录下存放了一些已上传至知识库的书籍或论文，如有侵权请email `wx@51dianshijia.com` 联系删除
 
 todo list:
 ```
@@ -122,3 +122,4 @@ Clinical Handbook of Emotion-Focused Therapy-American Psychological Association
 
 1. [dify.ai](https://dify.ai) 
 2. [GitHub: langgenius/dify](https://github.com/langgenius/dify)
+3. [Dify Documentation](https://docs.dify.ai/getting-started/intro-to-dify)
