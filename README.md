@@ -110,7 +110,8 @@ Using ONLY Chinese in the conversation. Please make sure your citation is correc
 
 发现：Psychology Q&A chatbot 的回答不够详实，建议 prompt tuning 改善效果；而 ChatGPT 的回答虽然会说 `很抱歉，但作为一个语言模型，我无法直接引用特定书籍的内容，因为我无法在当前环境中进行实时搜索或提取特定书籍的内容。我也无法提供关于社会心理学这本书第九章的详细描述。`但是回答句段较长更全面
 
-使用示例：
+<details>
+<summary>使用示例</summary>
 
 dify_record1
 
@@ -136,6 +137,8 @@ chatgpt_record3
 
 ![chatgpt_record3](image/chatgpt_record3.JPG)
 
+</details> 
+ 
 ## 书目
 
 `books`目录下存放了一些已上传至知识库的书籍或论文，如有侵权请Email `wx@51dianshijia.com` 联系删除
