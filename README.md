@@ -140,18 +140,18 @@ chatgpt_record3
 
 `books`目录下存放了一些已上传至知识库的书籍或论文，如有侵权请Email `wx@51dianshijia.com` 联系删除
 
-todo list:
+new list:
 ```
 什么样的爱值得勇敢一次
 5%的改变
 爱的博弈
-亲密关系心理学
+亲密关系心理学(to do)
 爱的五种能力
 幸福的婚姻
-依恋与亲密关系 : 伴侣沟通的七种EFT对话
-亲密关系与情感依赖 : 认清依恋风格、走出情感困境、重整亲密关系
+依恋与亲密关系 : 伴侣沟通的七种EFT对话(to do)
+亲密关系与情感依赖 : 认清依恋风格、走出情感困境、重整亲密关系(to do)
 爱，需要学习
-intimate relationship 9th
+intimate relationship 9th(to do)
 亲密关系6th(中文版)
 The Wiley Handbook of Sex Therapy-Wiley Blackwell (2017)
 A Therapist's Guide to Creating Acceptance and Change
