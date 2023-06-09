@@ -143,7 +143,7 @@ chatgpt_record3
 
 ## 业务融合
 
-目前AI爱家调用的是 OpenAI 的 gpt-3.5-turbo API, 若要使用 Dify 的知识库服务，只需调用你所创建应用的 API 即可，[官方文档](https://docs.dify.ai/v/zh-hans/application/developing-with-apis)写的很详细
+目前AI爱家调用的是 OpenAI 的 gpt-3.5-turbo API, 若要使用 Dify 的知识库服务，只需调用你所创建应用的 API 即可，官方文档中[API部分](https://docs.dify.ai/v/zh-hans/application/developing-with-apis)写的很详细
 
 使用 Dify API 的好处:
 - 让前端应用直接安全地调用 LLM 能力，省去后端服务的开发过程
