@@ -100,7 +100,7 @@ Using ONLY Chinese in the conversation. Please make sure your citation is correc
 
 ## 使用
 
-1. Web 端对话机器人：Psychology Q&A，链接在飞书云文档 `Engineering Wiki-算法-Dify chatbot`
+1. Web 端对话机器人：不同chatbot接入书目不同，链接在飞书云文档 `Engineering Wiki-算法-Dify chatbot`
 
 2. API : 支持调用对话型应用 API  
 
