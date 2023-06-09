@@ -154,7 +154,7 @@ new list:
 依恋与亲密关系 : 伴侣沟通的七种EFT对话(to do)
 亲密关系与情感依赖 : 认清依恋风格、走出情感困境、重整亲密关系(to do)
 爱，需要学习
-intimate relationship 9th(to do)
+intimate relationship 9th
 亲密关系6th(中文版)
 The Wiley Handbook of Sex Therapy-Wiley Blackwell (2017)
 A Therapist's Guide to Creating Acceptance and Change
