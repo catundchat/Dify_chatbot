@@ -89,13 +89,27 @@ Using ONLY Chinese in the conversation. Please make sure your citation is correc
 
 2. API : 支持调用对话型应用 API  
 
-在 prompt 中注明使用示例：
+注：可同时创建多个应用，分别使用不同的知识库，产生多个使用链接和 API 接口。
 
+在现行的 prompt 中设置了要尽可能详细的根据书籍内容产生回答，并且对比 ChatGPT 针对 `dify_record3` 中的3个问题的回答。使用示例：
+
+dify_record1
 ![dify_record1](image/dify_record1.jpg)
 
+dify_record2
 ![dify_record2](image/dify_record2.jpg)
 
+dify_record3
 ![dify_record3](image/dify_record3.JPG)
+
+chatgpt_record1
+![chatgpt_record1](image/chatgpt_record1.JPG)
+
+chatgpt_record2
+![chatgpt_record2](image/chatgpt_record2.JPG)
+
+chatgpt_record3
+![chatgpt_record3](image/chatgpt_record3.JPG)
 
 ## 书目
 
