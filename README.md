@@ -95,9 +95,11 @@ Using ONLY Chinese in the conversation. Please make sure your citation is correc
 
 ![dify_record2](image/dify_record2.jpg)
 
+![dify_record3](image/dify_record3.JPG)
+
 ## 书目
 
-`books`目录下存放了一些已上传至知识库的书籍或论文，如有侵权请email `wx@51dianshijia.com` 联系删除
+`books`目录下存放了一些已上传至知识库的书籍或论文，如有侵权请Email `wx@51dianshijia.com` 联系删除
 
 todo list:
 ```
