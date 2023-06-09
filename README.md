@@ -93,7 +93,7 @@ Using ONLY Chinese in the conversation. Please make sure your citation is correc
 
 在现行的 prompt 中设置了要尽可能详细的根据书籍内容产生回答，并且对比 ChatGPT 针对 `dify_record3` 中的3个问题的回答。
 
-发现：Psychology Q&A chatbot 的回答不够详实，建议 prompt tuning 改善效果；而 ChatGPT 的回答虽然会说 `很抱歉，但作为一个语言模型，我无法直接引用特定书籍的内容，因为我无法在当前环境中进行实时搜索或提取特定书籍的内容。我也无法提供关于社会心理学这本书第九章的详细描述。`但是回答句段较长更全面。
+发现：Psychology Q&A chatbot 的回答不够详实，建议 prompt tuning 改善效果；而 ChatGPT 的回答虽然会说 `很抱歉，但作为一个语言模型，我无法直接引用特定书籍的内容，因为我无法在当前环境中进行实时搜索或提取特定书籍的内容。我也无法提供关于社会心理学这本书第九章的详细描述。`但是回答句段较长更全面
 
 使用示例：
 
