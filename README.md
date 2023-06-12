@@ -70,7 +70,7 @@ cd docker
    
 ### 文本嵌入方式
 
-embedding 的核心是 vector hash table 用来存储键值对。键（key）通常是一个向量快速的查找与给点向量最相似的向量，通过计算向量距离（欧氏距离或余弦相似度）来实现
+Embedding 的核心是 vector hash table 用来存储键值对。键（key）通常是一个向量快速的查找与给点向量最相似的向量，通过计算向量距离（欧氏距离或余弦相似度）来实现
 
 Euclidean Distance: 
 
@@ -83,7 +83,7 @@ Cosine Similarity:
 
 $$ \text{cosine similarity} = \frac{\mathbf{A} \cdot \mathbf{B}}{\| \mathbf{A} \| \| \mathbf{B} \|} = \frac{ \sum_{i=1}^{n} A_i B_i }{ \sqrt{\sum_{i=1}^{n} A_i^2} \sqrt{\sum_{i=1}^{n} B_i^2} } $$
 
-若 LaTeX 公式无法正常显示，GitHub MathJax 插件可以在 GitHub 中渲染公式 [MathJax](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
+若 LaTeX 公式无法正常显示，[MathJax](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima) 插件可以在 GitHub 中渲染公式
 <!--
 ![Cosine Similarity](image/cosine_similarity.svg)
 -->
