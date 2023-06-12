@@ -74,14 +74,19 @@ embedding 的核心是 vector hash table 用来存储键值对。键（key）通
 
 Euclidean Distance: 
 
-$$ d(p,q) = \sqrt{ \sum_{i=1}^{n} (q_i-p_i)^2 } $4
+$$ d(p,q) = \sqrt{ \sum_{i=1}^{n} (q_i-p_i)^2 } $$
 
+<!--
 ![Euclidean Distance](image/euclidean_distance.svg)
-
+-->
 Cosine Similarity:
 
-![Cosine Similarity](image/cosine_similarity.svg)
+$$ \text{cosine similarity} = \frac{\mathbf{A} \cdot \mathbf{B}}{\| \mathbf{A} \| \| \mathbf{B} \|} = \frac{ \sum_{i=1}^{n} A_i B_i }{ \sqrt{\sum_{i=1}^{n} A_i^2} \sqrt{\sum_{i=1}^{n} B_i^2} } $$
 
+若 LaTeX 公式无法正常显示，GitHub MathJax 插件可以在 GitHub 中渲染公式 [MathJax](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
+<!--
+![Cosine Similarity](image/cosine_similarity.svg)
+-->
 - 嵌入：调用 OpenAI embedding 接口，在用户查询时准确度更高(0.002$/1000 tokens)
 
 - 其他：离线向量引擎索引，关键词索引，倒排索引，位图索引等(0 token)
