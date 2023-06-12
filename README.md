@@ -70,9 +70,11 @@ cd docker
    
 ### 文本嵌入方式
 
-- 嵌入：调用 OpenAI embedding 接口，在用户查询时准确度更高(0.002$/1000 tokens)
+embedding 的核心是 vector hash table 用来存储键值对。键（key）通常是一个向量快速的查找与给点向量最相似的向量，通过计算向量距离（欧氏距离或余弦相似度）来实现
 
-- 原理：embedding 的核心是 vector hash table 用来存储键值对。键（key）通常是一个向量快速的查找与给点向量最相似的向量，通过计算向量距离（欧氏距离或余弦相似度）来实现
+Euclidean Distance: $$ d(p,q) = \sqrt{ \sum_{i=1}^{n} (q_i-p_i)^2 } $$
+
+- 嵌入：调用 OpenAI embedding 接口，在用户查询时准确度更高(0.002$/1000 tokens)
 
 - 其他：离线向量引擎索引，关键词索引，倒排索引，位图索引等(0 token)
 
