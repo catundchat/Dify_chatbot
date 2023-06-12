@@ -14,6 +14,7 @@ Dify 云服务 | 心理学知识库 | 聊天机器人
   - [提示词编排](#提示词编排)
   - [模型](#模型)
 - [使用](#使用)
+  - [示例](#示例)
 - [业务融合](#业务融合)
 - [融合需要做的工程开发](#融合需要做的工程开发)
 - [书目](#书目)
@@ -130,6 +131,8 @@ Using ONLY Chinese in the conversation. Please make sure your citation is correc
 在现行的 prompt 中设置了要尽可能详细的根据书籍内容产生回答，并且对比 ChatGPT 针对 `dify_record3` 中的3个问题的回答
 
 发现：Psychology Q&A chatbot 的回答不够详实，建议 prompt tuning 改善效果； ChatGPT 的回答较长且更全面，但对于提出的具体问题大量出现以下回答 `很抱歉，但作为一个语言模型，我无法直接引用特定书籍的内容，因为我无法在当前环境中进行实时搜索或提取特定书籍的内容。我也无法提供关于社会心理学这本书第九章的详细描述。`
+
+### 示例
 
 <details>
 <summary>使用示例</summary>
