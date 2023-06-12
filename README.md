@@ -155,7 +155,7 @@ Using ONLY Chinese in the conversation. Please give some correct citations in th
 以下两个 APP 书目不同
 
 <details>
-<summary>Psychology Q&A 示例</summary>
+<summary>Psychology Q&A 与 ChatGPT 对比示例</summary>
 
 dify_record1
 
@@ -184,7 +184,7 @@ chatgpt_record3
 </details> 
 
 <details>
-  <summary>[2023-6-12更新prompt]version 2 示例</summary>
+  <summary>[2023-6-12 更新 prompt ] version 2 示例</summary>
   
   version 2 record 1
   
