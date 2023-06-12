@@ -72,8 +72,9 @@ cd docker
 
 embedding 的核心是 vector hash table 用来存储键值对。键（key）通常是一个向量快速的查找与给点向量最相似的向量，通过计算向量距离（欧氏距离或余弦相似度）来实现
 
-Euclidean Distance: d(p,q) = \sqrt{ \sum_{i=1}^{n} (q_i-p_i)^2 }
+Euclidean Distance: 
 
+$$ d(p,q) = \sqrt{ \sum_{i=1}^{n} (q_i-p_i)^2 } $4
 
 ![Euclidean Distance](image/euclidean_distance.svg)
 
