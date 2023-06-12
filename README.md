@@ -184,7 +184,7 @@ chatgpt_record3
 </details> 
 
 <details>
-  <summary>version 2 示例</summary>
+  <summary>[2023-6-12更新prompt]version 2 示例</summary>
   
   version 2 record 1
   
