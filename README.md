@@ -152,7 +152,7 @@ Using ONLY Chinese in the conversation. Please give some correct citations in th
 
 ### 示例
 
-以下两个 APP 书目不同
+以下分别创建的 APP 书目与提示词 Prompt 均可能不同
 
 <details>
 <summary>Psychology Q&A 与 ChatGPT 对比示例</summary>
@@ -199,6 +199,11 @@ chatgpt_record3
   ![version2_record3](image/version2_record3.JPG)
   
 </details>
+
+<details>
+  <summary>6.16test</summary>
+  6.16test 使用链接见飞书云文档`Engineering Wiki-Dify Chatbot`
+  </details>
 
 ## 业务融合
 
