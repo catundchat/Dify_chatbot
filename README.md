@@ -55,7 +55,7 @@ cd docker
 
 - 文件大小小于 15MB
 
-- 文件类型`TXT, HTML, Markdown, PDF`
+- 文件类型`TXT, HTML, Markdown, PDF, XLSX`
 
 - Todo: 未来会支持`同步自 Notion 内容`，`同步自 Web 站点`
 
