@@ -142,9 +142,7 @@ Using ONLY Chinese in the conversation. Please give some correct citations in th
 | ChatGPT(gpt-3.5-turbo) | ✔️ |
 | GPT-4 | ✔️ |
 
-注：GPT-4 API 正在申请中无法测试
-
-[2023-6-6 Azure OpenAI 回复邮件]:`Please note that we are currently paused on onboarding new GPT-4 customers due to the high demand and do not have an estimated time for when we will onboard new customers.`
+注：GPT-4 API 已申请到！
 
 ## 使用
 
