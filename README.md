@@ -1,6 +1,6 @@
 # Dify_chatbot
 
-Dify 云服务 | 心理学知识库 | 聊天机器人
+Dify 云服务 | 心理学知识库 | 微信小程序：AI爱家
 
 # 目录
 - [Update](#update)
