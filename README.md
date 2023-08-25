@@ -145,8 +145,6 @@ Using ONLY Chinese in the conversation. Please give some correct citations in th
 | ChatGPT(gpt-3.5-turbo) | ✔️ |
 | GPT-4 | ✔️ |
 
-注：GPT-4 API 已申请到！
-
 ## 使用
 
 1. Web 端对话机器人：不同chatbot接入书目不同，链接在飞书云文档 `Engineering Wiki-算法-Dify chatbot`
