@@ -144,6 +144,7 @@ Using ONLY Chinese in the conversation. Please give some correct citations in th
 |GPT-3(text-davinci-003)|✔️|
 | ChatGPT(gpt-3.5-turbo) | ✔️ |
 | GPT-4 | ✔️ |
+| ChatGLM2-6B | ✔️ |
 
 ## 使用
 
