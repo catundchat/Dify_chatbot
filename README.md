@@ -141,7 +141,6 @@ Using ONLY Chinese in the conversation. Please give some correct citations in th
 
 | 模型 | 支持情况 |
 |:---|:---:|
-|GPT-3(text-davinci-003)|✔️|
 | ChatGPT(gpt-3.5-turbo) | ✔️ |
 | GPT-4 | ✔️ |
 | ChatGLM2-6B | ✔️ |
