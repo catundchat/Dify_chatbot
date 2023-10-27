@@ -137,7 +137,7 @@ Using ONLY Chinese in the conversation. Please give some correct citations in th
 
 ### 模型
 
-支持 OpenAI, Azure OpenAI API KEY
+支持 OpenAI, Azure OpenAI API KEY，不支持联网搜索
 
 | 模型 | 支持情况 |
 |:---|:---:|
