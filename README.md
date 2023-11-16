@@ -54,7 +54,7 @@ cd docker
 
 修改 `docker-compose.yml`文件以符合自身系统设置，这里给出一个修改后文件放在`code/docker-compose.yml`，这时我们再运行 `docker compose up -h` 便可重启 docker 并刷新 `docker-compose.yml` 配置，大概配置3分钟后会在 Docker 中配置好 Web, api, database 等
 
-![dify_docker](image/dify_docker.JPG)
+![docker_dify](image/dify_docker.JPG)
 
 如上图所示，我们便可在浏览器上访问 http://localhost/install 进入 Dify 控制台并开始初始化安装操作
 
